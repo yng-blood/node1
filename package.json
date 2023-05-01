@@ -1,0 +1,18 @@
+{
+  "name": "newnode",
+  "version": "2.2.2",
+  "description": "khuch natya try karte hai ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jonhytest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nan"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "aditya yadav",
+  "license": "3002"
+}
